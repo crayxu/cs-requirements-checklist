@@ -1,6 +1,6 @@
-# 2018-2019 Bachelor of Computer Science Checklist
+## 2018-2019 Bachelor of Computer Science Checklist
 
-- University of Waterloo
+## University of Waterloo
 
 This is the checklist for my own convenience.
 
